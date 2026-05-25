@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+tmp_*.py
+st_*.log
+finalize_results.py
+gather_all.py
+rerun_exp3.py
+write_summary.py
+
+# OMO
+.omo/
+
+# Output (optional: keep if you want results in repo)
+# output/
+# test_output/
